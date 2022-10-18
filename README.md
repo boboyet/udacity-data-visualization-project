@@ -10,10 +10,10 @@
 
 ## Summary of Findings
 
-> This data set contains details on each ride taken in a bike-sharing program that services the greater San Francisco Bay area. The dataset with 16 columns contains more than 180,000 bike-riding data points. The majority of variables use numeric data types. This data collection will be divided into three main categories:
-* trip duration: duration_sec, start_time, end_time
-* station info: start_station_id, start_station_name, start_station_latitude, start_station_longitude, end_station_id, end_station_name, end_station_latitude, end_station_longitude
-* user info (anonymized): bike_id, user_type, member_birth_year, member_gender, bike_share_for_all_trip
+> * This data set contains details on each ride taken in a bike-sharing program that services the greater San Francisco Bay area. The dataset with 16 columns contains more than 180,000 bike-riding data points. The majority of variables use numeric data types. This data collection will be divided into three main categories:
+> * trip duration: duration_sec, start_time, end_time
+> * station info: start_station_id, start_station_name, start_station_latitude, start_station_longitude, end_station_id, end_station_name, end_station_latitude, end_station_longitude
+> * user info (anonymized): bike_id, user_type, member_birth_year, member_gender, bike_share_for_all_trip
 
 
 ## Key Insights for Presentation
